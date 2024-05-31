@@ -1,0 +1,27 @@
+internalTransfers:
+    accountId: bccd3bf7-3369-4622-b769-71f93d66da87
+    additionalData: null
+    approvalExpiredAt: null
+    approvedAt: null
+    approvedBy: null
+    batchId: null
+    cancelledAt: null
+    cancelledBy: null
+    createdAt: 2024-05-31T20:25:40Z
+    createdBy: user:6324a4c8-6ae6-42f2-abd1-a1ea29b0cd15
+    description: ""
+    failedAt: null
+    failureReasonCode: null
+    failureReasonDescription: null
+    fee: 0
+    finishedAt: null
+    hasSimilarOperationRecently: false
+    rejectedAt: null
+    rejectedBy: null
+    scheduledTo: null
+    settledAt: null
+    status: CREATED
+    targetEntityName: Nome do CPF 39166457068
+    targetAccountCode: 475384
+    targetAccountOwnerName: Nome do CPF 39166457068
+    targetInContacts: true
